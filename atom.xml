@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Jay' Ruby Diary]]></title>
+  <link href="http://jayshao830413.github.com/atom.xml" rel="self"/>
+  <link href="http://jayshao830413.github.com/"/>
+  <updated>2012-10-27T02:26:37+08:00</updated>
+  <id>http://jayshao830413.github.com/</id>
+  <author>
+    <name><![CDATA[Jay Shao]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[say hallo to...]]></title>
+    <link href="http://jayshao830413.github.com/blog/2012/10/26/say-hallo-to-dot-dot-dot/"/>
+    <updated>2012-10-26T14:16:00+08:00</updated>
+    <id>http://jayshao830413.github.com/blog/2012/10/26/say-hallo-to-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>这是我的第一篇博客，今后将在这个空间记录和分享一些自己在ruby世界里的所见所闻所想，so happy to say hallo to ruby world!</p>
+]]></content>
+  </entry>
+  
+</feed>
