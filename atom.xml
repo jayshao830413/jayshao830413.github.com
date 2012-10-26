@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Jay' Ruby Diary]]></title>
+  <title><![CDATA[Jay Ruby Diary]]></title>
   <link href="http://jayshao830413.github.com/atom.xml" rel="self"/>
   <link href="http://jayshao830413.github.com/"/>
-  <updated>2012-10-27T02:26:37+08:00</updated>
+  <updated>2012-10-27T02:30:10+08:00</updated>
   <id>http://jayshao830413.github.com/</id>
   <author>
     <name><![CDATA[Jay Shao]]></name>
